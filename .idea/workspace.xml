@@ -35,8 +35,8 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.MySQL2Iceberg">
-    <configuration name="FlinkToIceberg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.FlinkToIceberg" />
+    <configuration name="FlinkSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FlinkSQL" />
       <module name="flink" />
       <shortenClasspath name="CLASSPATH_FILE" />
       <extension name="coverage">
@@ -65,13 +65,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.FlinkSQL" />
       <item itemvalue="Application.MySQL2Iceberg" />
-      <item itemvalue="Application.FlinkToIceberg" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MySQL2Iceberg" />
-        <item itemvalue="Application.FlinkToIceberg" />
+        <item itemvalue="Application.FlinkSQL" />
       </list>
     </recent_temporary>
   </component>

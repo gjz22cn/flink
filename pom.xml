@@ -146,7 +146,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.FlinkToIceberg</mainClass>
+              <mainClass>com.FlinkSQL</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
